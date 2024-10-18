@@ -6,7 +6,7 @@
         {
             Console.Write("Please Enter Your Name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello " + name);
+            Console.WriteLine("Hello, " + name);
 
             Console.ReadLine();
         }
